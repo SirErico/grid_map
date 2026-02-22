@@ -1,5 +1,6 @@
 # Grid Map
 
+This is a fork of the [grid_map](https://github.com/ANYbotics/grid_map) library, with certain modifications to be used in my ESA Spaceship traversability project. 
 ## Overview
 
 This is a C++ library with [ROS] interface to manage two-dimensional grid maps with multiple data layers. It is designed for mobile robotic mapping to store data such as elevation, variance, color, friction coefficient, foothold quality, surface normal, traversability etc. It is used in the [Robot-Centric Elevation Mapping](https://github.com/anybotics/elevation_mapping) package designed for rough terrain navigation.
